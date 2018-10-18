@@ -1,0 +1,6 @@
+
+.DS_Store
+Debug/*
+x64/*
+*.vcxproj.*
+*.vcxproj
